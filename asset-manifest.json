@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/FastFoodDelivery/static/css/main.f27bf355.css",
-    "main.js": "/FastFoodDelivery/static/js/main.ff3ef98c.js",
+    "main.js": "/FastFoodDelivery/static/js/main.b4acfe15.js",
     "static/js/488.1b414156.chunk.js": "/FastFoodDelivery/static/js/488.1b414156.chunk.js",
     "static/media/hero-2.png": "/FastFoodDelivery/static/media/hero-2.12b0d8ea4fb63911c1fe.png",
     "static/media/bg.jpg": "/FastFoodDelivery/static/media/bg.ac5237841ce77dfce589.jpg",
@@ -37,11 +37,11 @@
     "static/media/brand-16.png": "/FastFoodDelivery/static/media/brand-16.39e872b117651240bc57.png",
     "index.html": "/FastFoodDelivery/index.html",
     "main.f27bf355.css.map": "/FastFoodDelivery/static/css/main.f27bf355.css.map",
-    "main.ff3ef98c.js.map": "/FastFoodDelivery/static/js/main.ff3ef98c.js.map",
+    "main.b4acfe15.js.map": "/FastFoodDelivery/static/js/main.b4acfe15.js.map",
     "488.1b414156.chunk.js.map": "/FastFoodDelivery/static/js/488.1b414156.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f27bf355.css",
-    "static/js/main.ff3ef98c.js"
+    "static/js/main.b4acfe15.js"
   ]
 }
