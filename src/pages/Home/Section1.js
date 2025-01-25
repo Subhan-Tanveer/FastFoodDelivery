@@ -3,6 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import Burger from "../../assets/hero/hero-2.png";
 import { Link } from "react-router-dom";
 
+// import Cards from "../../components/Layout/Cards";
 const Section1 = () => {
   return (
     <section className="hero_section">

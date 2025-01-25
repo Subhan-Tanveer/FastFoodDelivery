@@ -1,13 +1,15 @@
 import React from "react";
-import Layout from "../../components/Layouts/Layout";
+import Layout from "../../components/Layout/Layout";
+
 import "../../styles/HomeStyle.css";
-import Section1 from "./Section1";
-import Section2 from "./Section2";
-import Section3 from "./Section3";
-import Section4 from "./Section4";
-import Section5 from "./Section5";
-import Section6 from "./Section6";
-import Section7 from "./Section7";
+import Section1 from "../Home/Section1";
+import Section2 from "../Home/Section2";
+import Section3 from "../Home/Section3";
+import Section4 from "../Home/Section4";
+import Section5 from "../Home/Section5";
+import Section6 from "../Home/Section6";
+import Section7 from "../Home/Section7";
+// import Cards from "../../components/Layout/Cards";
 
 const Home = () => {
   return (

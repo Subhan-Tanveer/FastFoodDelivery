@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import { Container, Nav, Navbar } from "react-bootstrap";
 import { Link } from "react-router-dom";
 import Logo from "../../assets/logo/logo.png";
+// import Cards from "../../components/Layout/Cards";
 import "../../styles/HeaderStyle.css";
 
 const Header = () => {
